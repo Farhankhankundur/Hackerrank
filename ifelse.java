@@ -4,10 +4,10 @@ public class Solution {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Read the input number
+       
         int N = scanner.nextInt();
 
-        // to Check the conditions
+      
         if (N % 2 == 1) {
             // N is odd
             System.out.println("Weird");
